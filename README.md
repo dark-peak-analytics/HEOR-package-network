@@ -45,6 +45,9 @@ Ensure these packages are installed before running the script.
 - Uses `visNetwork` to generate an HTML-based interactive network visualization.
 - Implements node and edge attributes based on package characteristics.
 
+![image](https://github.com/user-attachments/assets/2577c48e-dd68-481f-b522-e2f4522d64d4)
+
+
 ## Output
 The script generates an interactive network visualization displaying HEOR R package dependencies. Users can interact with the visualization, highlighting dependencies and selecting specific packages for further inspection.
 
